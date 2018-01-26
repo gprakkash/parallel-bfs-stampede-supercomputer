@@ -3,8 +3,7 @@
  * Serial and Parallel 1D BFS
  *	
  * Authors : 
- *		Gaurav Prakash,  <gaurav.prakash@mavs.uta.edu>	
- *		UTA ID : 1001236154
+ *		Gaurav Prakash
  */
 
 #include <stdio.h>
