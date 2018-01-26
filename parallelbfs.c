@@ -5,15 +5,6 @@
  * Authors : 
  *		Gaurav Prakash,  <gaurav.prakash@mavs.uta.edu>	
  *		UTA ID : 1001236154
- *		
- *		Sai Kumar Manakan, <saikumar.manakan@mavs.uta.edu>
- *		UTA ID : 1001236131
- *
- *		Akash Gupta, <akash.gupta@mavs.uta.edu>
- *		UTA ID : 1001122031
- *
- *		Pavan Akshay Abhange, <pavanakshay.abhange@mavs.uta.edu>
- *		UTA ID : 1001103771
  */
 
 #include <stdio.h>
