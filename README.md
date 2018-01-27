@@ -9,7 +9,7 @@
 ### Expected output
 ##### Sample output for ibrun -np 4 a.out 100 0
 ```
-Total vertices in the graph : 400
-Serial BFS complete. Time taken = 0.001668
-Parallel BFS complete. Time taken = 0.023453
+Total vertices in the graph : 40000
+Serial BFS complete. Time taken = 0.023453
+Parallel BFS complete. Time taken = 0.001668
 ```
