@@ -1,7 +1,7 @@
 # 1D partitioned parallel BFS on large graphs
 
 ### Compilation Instructions
-`mpicc serial_and_parallel_bfs.c`
+`mpicc parallelbfs.c`
 
 ### Running Instructions on Stampede supercomputer
 `ibrun -np num_of_processors a.out num_of_vertices_per_processor source_vertex`
